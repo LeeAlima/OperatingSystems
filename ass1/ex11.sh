@@ -1,5 +1,5 @@
 #!/bin/bash
-# Lee Alima 313467441
+# Lee Alima
 if [ "$#" != 0 ]
 then
 cd "$1"
